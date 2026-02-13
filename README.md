@@ -1,12 +1,62 @@
-# React + Vite
+# 🚀 Frontend Machine Coding Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of **React machine coding questions & reusable components**  
+built for interview preparation and real-world UI practice.
 
-Currently, two official plugins are available:
+🔗 Live Preview: https://your-demo-link.com  
+📦 Tech: React, Hooks, CSS, JavaScript  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![React](https://img.shields.io/badge/React-Project-blue)
+![Machine Coding](https://img.shields.io/badge/Machine-Coding-green)
+![Frontend](https://img.shields.io/badge/Frontend-Prep-orange)
 
-## Expanding the ESLint configuration
+## 🧩 Components & Mini Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Component | Category | Time | Concepts | Preview | Code |
+|-----------|----------|------|---------|--------|------|
+| ⭐ Rating Component | UI Component | 20 min | State, Props | [Live](#) | [Code](./rating) |
+| 🔍 Search with Debounce | Machine Coding | 30 min | Debounce, API | [Live](#) | [Code](./search) |
+| 📄 Pagination | UI Logic | 25 min | Pagination Logic | [Live](#) | [Code](./pagination) |
+| 📋 Form Validation | Form | 35 min | Validation, Hooks | [Live](#) | [Code](./form) |
+| 🎣 Custom Hook | Hooks | 15 min | useFetch | [Live](#) | [Code](./hooks) |
+
+---
+
+### ⭐ Rating Component
+
+**Category:** UI Component  
+**Time Taken:** 20 mins  
+**Concepts:** useState, Events  
+
+**Features:**
+- Hover rating
+- Click to select
+- Reusable component
+
+🔗 Live Demo: https://your-link  
+💻 Code: ./components/rating  
+
+![preview](./preview/rating.png)
+
+## 📁 Folder Structure
+
+src/
+ ├── components/
+ │    ├── rating
+ │    ├── pagination
+ │    ├── search
+ │
+ ├── hooks/
+ ├── projects/
+
+## ⚙️ Run Locally
+
+```bash
+git clone https://github.com/yourname/repo
+cd repo
+npm install
+npm start
+
+<img width="1298" height="617" alt="image" src="https://github.com/user-attachments/assets/5ff63c94-bbdd-4465-84ad-90448404ad9e" />
+
+
