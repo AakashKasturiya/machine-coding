@@ -14,11 +14,11 @@ built for interview preparation and real-world UI practice.
 
 | Component | Category | Time | Concepts | Preview | Code |
 |-----------|----------|------|---------|--------|------|
-| ⭐ Rating Component | UI Component | 20 min | State, Props | [Live](#) | [Code](./rating) |
-| 🔍 Search with Debounce | Machine Coding | 30 min | Debounce, API | [Live](#) | [Code](./search) |
-| 📄 Pagination | UI Logic | 25 min | Pagination Logic | [Live](#) | [Code](./pagination) |
-| 📋 Form Validation | Form | 35 min | Validation, Hooks | [Live](#) | [Code](./form) |
-| 🎣 Custom Hook | Hooks | 15 min | useFetch | [Live](#) | [Code](./hooks) |
+| ⭐ Rating Component | UI Component | 20 min | State, Props |
+| 🔍 Search with Debounce | Machine Coding | 30 min | Debounce, API | 
+| 📄 Pagination | UI Logic | 25 min | Pagination Logic |
+| 📋 Form Validation | Form | 35 min | Validation, Hooks |
+| 🎣 Custom Hook | Hooks | 15 min | useFetch | [Live](#) |
 
 ---
 
@@ -36,7 +36,9 @@ built for interview preparation and real-world UI practice.
 🔗 Live Demo: https://your-link  
 💻 Code: ./components/rating  
 
-![preview](./preview/rating.png)
+## 📸 Preview
+![Dropdown UI](./screenshots/dropdown.png)
+
 
 ## 📁 Folder Structure
 
@@ -56,7 +58,5 @@ git clone https://github.com/yourname/repo
 cd repo
 npm install
 npm start
-
-<img width="1298" height="617" alt="image" src="https://github.com/user-attachments/assets/5ff63c94-bbdd-4465-84ad-90448404ad9e" />
 
 
