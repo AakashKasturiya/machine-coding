@@ -13,9 +13,9 @@
     "@monaco-editor/react": "^4.7.0",
     "framer-motion": "^12.23.12",
     "fuse.js": "^7.1.0",
-    "react": "^19.1.1",
+    "react": "^18.3.1",
     "react-beautiful-dnd": "^13.1.1",
-    "react-dom": "^19.1.1",
+    "react-dom": "^18.3.1",
     "react-router-dom": "^7.9.1",
     "react-toastify": "^11.0.5",
     "remixicon": "^4.6.0"
